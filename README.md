@@ -38,7 +38,3 @@ AgroSmartHub is a smart farming system, measuring soil health, delivering automa
 
 **Conclusion:**
 AgroSmartHub represents a significant leap forward in the realm of smart agriculture, combining state-of-the-art technology with user-friendly interfaces. This open-source project empowers farmers to embrace sustainable and efficient farming practices, fostering a more resilient and productive agricultural ecosystem.
-
----
-
-Feel free to customize this presentation according to your specific project details and goals.
