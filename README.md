@@ -9,7 +9,7 @@ AgroSmartHub is a smart farming system, measuring soil health, delivering automa
 
 2. **Automatic Irrigation and Nutrient Supply:**
    - Dynamically adjusts water and nutrient supply based on real-time soil health data.
-   - Ensures optimal conditions for plant growth while conserving resources through intelligent irrigation.
+   - Ensures optimal conditions for plant growth while conserving resources through intelligent irrigation,
 
 3. **Solar Energy Integration:**
    - Incorporates solar panels to generate clean and sustainable energy for powering the system.
